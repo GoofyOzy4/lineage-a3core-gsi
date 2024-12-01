@@ -25,7 +25,7 @@ A big thanks to everyone tagged below for their contributions!
 
 - **Optimized** specifically for the Samsung A03 Core.
 - **Removed unnecessary Treble overlays** that don’t provide benefits for the Samsung A03 Core.
-- Added **minimal** Google Apps :
+- Added **minimal** Google Apps(LiteGApps).
 - Hidden Treble settings for a cleaner **full-ROM feel**.  
   To access them, use the following command in a superuser terminal:
     ```
@@ -48,9 +48,11 @@ A big thanks to everyone tagged below for their contributions!
 - **[LineageOS](https://lineageos.org/)** - For **awesome ROM**!!
 - **[phhusson](https://github.com/phhusson)** – For the help and **TrebleDroid**!
 - **[3443](https://github.com/FlowerGEN)** – For **help**!
+- **[Andy Yan]([https://github.com/FlowerGEN](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/))** – For **GSI**!
+
 ---
 
 ## **📋 • License**
 
-- **LineageOS** - [Apache 2.0](https://github.com/LineageOS/android_vendor_lineage?tab=License-1-ov-file#readme)
+- **LineageOS System-parts** - [Apache 2.0](https://github.com/LineageOS/android_vendor_lineage?tab=License-1-ov-file#readme)
 - **LiteGApps** - [MIT](https://github.com/litegapps/litegapps?tab=MIT-1-ov-file#MIT-1-ov-file)
