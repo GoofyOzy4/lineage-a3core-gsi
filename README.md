@@ -23,7 +23,7 @@ A big thanks to everyone tagged below for their contributions!
 
 ## **⭐ • Features**
 
-- **Optimized** specifically for the Samsung A03 Core.
+- **Optimized** specifically for the Samsung A03 Core. And has **2 repack variants** !
 - **Removed unnecessary Treble overlays** that don’t provide benefits for the Samsung A03 Core.
 - Added **minimal** Google Apps(LiteGApps).
 - Hidden Treble settings for a cleaner **full-ROM feel**.  
