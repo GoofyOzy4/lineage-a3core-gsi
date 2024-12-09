@@ -15,7 +15,7 @@ I am **not** responsible for any damage, bootloops, or bricked devices caused by
 
 ## **📃 • Documentation**
 
-**Note:** I am not the maintainer of the GSI itself. I am an **unofficial maintainer** of the device port. I will continue to update this fork, including any AIO modules for optimization if needed.
+**Note:** **I am not** the maintainer of the GSI or ROM itself. I am an **UNOFFICIAL maintainer** of the device port. I will continue to update this GSI fork, including any AIO module part for optimization if needed, and tweaks for better user experiance.
 
 A big thanks to everyone tagged below for their contributions!
 
@@ -23,9 +23,8 @@ A big thanks to everyone tagged below for their contributions!
 
 ## **⭐ • Features**
 
-- **Optimized** specifically for the Samsung A03 Core. And has **2 repack variants** !
-- **Removed unnecessary Treble overlays** that don’t provide benefits for the Samsung A03 Core.
-- Added **minimal** Google Apps(LiteGApps).
+- **Optimized** specifically for the Samsung A03 Core.
+- **Removed unnecessary stuff** that don’t provide benefits for the Samsung A03 Core.
 - Hidden Treble settings for a cleaner **full-ROM feel**.  
   To access them, use the following command in a superuser terminal:
     ```
@@ -54,5 +53,5 @@ A big thanks to everyone tagged below for their contributions!
 
 ## **📋 • License**
 
-- **LineageOS System-parts** - [Apache 2.0](https://github.com/LineageOS/android_vendor_lineage?tab=License-1-ov-file#readme)
+- **LineageOS** - [Apache 2.0](https://github.com/LineageOS/android_vendor_lineage?tab=License-1-ov-file#readme)
 - **LiteGApps** - [MIT](https://github.com/litegapps/litegapps?tab=MIT-1-ov-file#MIT-1-ov-file)
