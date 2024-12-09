@@ -39,3 +39,4 @@
 - Dropped GApps variant.
 - Android update(Lineage OS 21).
 - "Keeping" default build info.
+- Removed some useless disable background apps optimizations. (now only camera and calculator background disabled) 
