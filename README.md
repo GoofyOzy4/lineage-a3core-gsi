@@ -4,20 +4,20 @@
 ## 📱 • [GSI Maintained by Andyyan](https://sourceforge.net/projects/andyyan-gsi/files/).
 This is a custom **AOSP-based** ROM, adapted specifically for the **Samsung A03 Core**.
 
-**LineageOS GSI** *(by Andy Ayan)*, tailored for the **Samsung A03 Core**, offers a custom rom experience on treble droid with a focus on performance and optimization.
+**LineageOS GSI** *(by Andy Yan)*, tailored for the **Samsung A03 Core**, offers a custom rom experience on trebledroid with a focus on performance and optimization.
 
 ---
 
 ## **⚠️ • Disclaimer:**
-I am **not** responsible for any damage, bootloops, or bricked devices caused by using this GSI. Use at your own risk.
+I am **not** responsible for any damage, bootloops, or bricked devices caused by using this GSI. **Use at your own risk**.
 
 ---
 
 ## **📃 • Documentation**
 
-**Note:** **I am not** the maintainer of the GSI or ROM itself. I am an **UNOFFICIAL maintainer** of the device port. I will continue to update this GSI fork, including any AIO module part for optimization if needed, and tweaks for better user experiance.
+**Note:** **I am not** the maintainer of the GSI or ROM itself. I am an **UNOFFICIAL maintainer** of the device port. I will continue to update this GSI fork, including any my AIO module part for optimization if needed, and tweaks for better user experiance.
 
-A big thanks to everyone tagged below for their contributions!
+### A big thanks to everyone tagged below for their contributions!
 
 ---
 
