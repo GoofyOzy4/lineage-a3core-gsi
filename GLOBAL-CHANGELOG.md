@@ -1,3 +1,6 @@
+# Info
+### every repack updated step-by-step . for example - v3 has everything from v1-v2 but fully rebased from other system.img
+---
 # V1 - First release
 ## Vanilla :
 - First Release
