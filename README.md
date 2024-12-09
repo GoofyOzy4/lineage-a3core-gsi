@@ -1,7 +1,7 @@
 # **LineageOS ROM (Treble) for Samsung A03 Core (a3core)**
 
 ## 📱 • Maintained Unofficially by Goofy_Ozy4.
-## 📱 • [GSI Maintained by Andyyan](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/).
+## 📱 • [GSI Maintained by Andyyan](https://sourceforge.net/projects/andyyan-gsi/files/).
 This is a custom **AOSP-based** ROM, adapted specifically for the **Samsung A03 Core**.
 
 **LineageOS GSI** *(by Andy Ayan)*, tailored for the **Samsung A03 Core**, offers a custom rom experience on treble droid with a focus on performance and optimization.
