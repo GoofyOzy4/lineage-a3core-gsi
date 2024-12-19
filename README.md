@@ -3,9 +3,11 @@
 ## 📱 • Maintained Unofficially by Goofy_Ozy4.
 ## 📱 • [GSI Maintained by Andyyan](https://sourceforge.net/projects/andyyan-gsi/files/).
 
-<p align="center"><b>Readme language</b></p>
-<p align="center"><b>Русский -English-</b></p>
+---
+### Choose your language
+**English** | [Русский (более точный)](https://github.com/GoofyOzy4/lineage-a3core-gsi/blob/main/README-RU.md) .
 
+---
 This is a custom **AOSP-based** ROM, adapted specifically for the **Samsung A03 Core**.
 
 **LineageOS GSI** *(by Andy Yan)*, tailored for the **Samsung A03 Core**, offers a custom rom experience on trebledroid with a focus on performance and optimization.
@@ -13,7 +15,7 @@ This is a custom **AOSP-based** ROM, adapted specifically for the **Samsung A03 
 ---
 
 ## **⚠️ • Disclaimer:**
-I am **not** responsible for any damage, bootloops, or bricked devices caused by using this GSI. **Use at your own risk**.
+I am **not** responsible for any damage, bootloops, or bricked devices caused by using this GSI. **Use at your own risk**. **IF YOU DO NOT WANT TO MODIFY YOUR PHONE, JUST STOP READING AND CLOSE THE SITE!!! I WARNED YOU, ALL RESPONSIBILITY IS ON YOU!! REPEAT, YOU HAVE BEEN WARNED!!!!!!**
 
 ---
 
