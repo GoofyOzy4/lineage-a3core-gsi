@@ -3,9 +3,6 @@
 ## 📱 • Maintained Unofficially by Goofy_Ozy4.
 ## 📱 • [GSI Maintained by Andyyan](https://sourceforge.net/projects/andyyan-gsi/files/).
 
-<p align="center"><b>Readme language</b></p>
-<p align="center"><b>-Русский- English</b></p>
-
 ---
 ### Choose your language
 [English](https://github.com/GoofyOzy4/lineage-a3core-gsi/blob/main/README.md) | **Русский** .
