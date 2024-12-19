@@ -39,4 +39,10 @@
 - Dropped GApps variant.
 - Android update(Lineage OS 21).
 - "Keeping" default build info.
-- Removed some useless disable background apps optimizations. (now only camera and calculator background disabled) 
+- Removed some useless disable background apps optimizations. (now only camera and calculator background disabled)
+---
+# What new here (changelog for V4, 2024-12-19) :
+- Added my custom a03 core fingerprint (samsung/a3corexx/a3core:14/AP2A.240905.003/A032FXXS6CXE1:user/release-keys)
+- Edited ALOT build.prop props(device info and etc.) for improve custom "rom" experiance.
+- Fixed(?) calls.
+- Small debloat and changes in /system/bin/rw-system.sh (340 lines).
