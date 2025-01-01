@@ -26,7 +26,10 @@ I am **not** responsible for any damage, bootloops, or bricked devices caused by
 ### A big thanks to everyone tagged below for their contributions!
 
 ---
+## 💾 • Flashing steps
+[English](https://github.com/GoofyOzy4/lineage-a3core-gsi/blob/main/FLASHING-TUTORIAL-EN.md) | [Русский](https://github.com/GoofyOzy4/lineage-a3core-gsi/blob/main/FLASHING-TUTORIAL-RU.md)
 
+---
 ## **⭐ • Features**
 
 - **Optimized** specifically for the Samsung A03 Core.
@@ -49,7 +52,7 @@ I am **not** responsible for any damage, bootloops, or bricked devices caused by
 
 ## **♥️ • Acknowledgements**
 
-- **[LiteGApps](https://litegapps.github.io/)** – For providing almost **GApps**!
+- **[LiteGApps](https://litegapps.github.io/)** – For providing almost **GApps** in older versions!
 - **[LineageOS](https://lineageos.org/)** - For **awesome ROM**!!
 - **[phhusson](https://github.com/phhusson)** – For the help and **TrebleDroid**!
 - **[3443](https://github.com/FlowerGEN)** – For **help**!
