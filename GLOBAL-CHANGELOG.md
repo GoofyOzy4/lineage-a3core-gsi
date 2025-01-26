@@ -46,3 +46,10 @@
 - Edited ALOT build.prop props(device info and etc.) for improve custom "rom" experiance.
 - Fixed(?) calls.
 - Small debloat and changes in /system/bin/rw-system.sh (340 lines).
+---
+# What new here (changelog for V5, 2025-01-26) :
+## Updated to [new release](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/) ! (lineage-21.0-20250125-UNOFFICIAL-a64_bvN.img.gz)
+- Source update (Security patch : 1 December 2024)
+- Added low memory killer tweak in build.prop(/system/)
+- Change default DPI to 384 (/system/bin/one-boot.sh)
+- Update vendor from M device (S3 > S4)
