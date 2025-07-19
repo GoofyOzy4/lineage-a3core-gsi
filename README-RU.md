@@ -1,3 +1,6 @@
+<pre align="center">
+   <a>Больше обновлений нет. У меня нет этого телефона также как и времени</a>
+</pre>
 # **LineageOS ROM (Treble) for Samsung A03 Core (a3core)**
 
 ## 📱 • Maintained Unofficially by Goofy_Ozy4.
